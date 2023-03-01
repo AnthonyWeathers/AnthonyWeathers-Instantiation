@@ -19,7 +19,7 @@ public class Lab {
      */
     public Object instantiateANewObject(){
 
-        Lab kit = new Lab();
-        return kit;
+        Lab labkit = new Lab();
+        return labkit;
     }
 }
